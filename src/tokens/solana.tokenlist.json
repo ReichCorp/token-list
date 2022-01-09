@@ -74207,6 +74207,17 @@
       "extensions": {
         "website": "https://www.bostonbionics.eu/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5XzbcgnzjGByMuCh1hUZnzZvWJ6ekjqsnFs1mRtSyfuX",
+      "symbol": "REICH",
+      "name": "ReichCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/ReichCorp/Reich/main/ReichCoin-resized.png",
+      "tags": [
+        "company-token"
+      ]
     }
   ],
   "version": {
