@@ -74160,6 +74160,19 @@
         "twitter": "https://twitter.com/stakewiz",
         "website": "https://www.stakewiz.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5XzbcgnzjGByMuCh1hUZnzZvWJ6ekjqsnFs1mRtSyfuX",
+      "symbol": "REICH",
+      "name": "ReichCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/ReichCorp/Reich/main/ReichCoin-resized.jpg",
+      "tags": [
+        "social-token",
+        "crypto-token",
+        "New-world-order-coin"
+      ]
     }
   ],
   "version": {
