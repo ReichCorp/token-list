@@ -74255,6 +74255,20 @@
         "twitter": "https://twitter.com/fitboxworld",
         "website": "https://www.fitboxworld.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5XzbcgnzjGByMuCh1hUZnzZvWJ6ekjqsnFs1mRtSyfuX",
+      "symbol": "REICH",
+      "name": "ReichCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/ReichCorp/Reich/main/REICHCOIN-TRNSP.png",
+      "tags": [
+        "company-token"
+      ],
+      "extensions": {
+        "website": "https://www.Reichcorp.com"
+      }
     }
   ],
   "version": {
